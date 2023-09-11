@@ -1,4 +1,4 @@
 import './App.css';
-import Board from "./game/Board";
+import Game from "./game/Game";
 
-export default Board;
+export default Game;
